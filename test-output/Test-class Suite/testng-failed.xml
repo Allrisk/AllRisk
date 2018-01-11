@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Test-class Suite]" parallel="tests">
+  <parameter name="test-name" value="test-method One"/>
+  <parameter name="test-name3" value="test-method One"/>
+  <parameter name="test-name1" value="test-method One"/>
+  <test name="Test-class test 2(failed)" parallel="tests">
+    <parameter name="test-name1" value="test-method One"/>
+    <classes>
+      <class name="KeywordDrivenFramework.DriverScript">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- KeywordDrivenFramework.DriverScript -->
+    </classes>
+  </test> <!-- Test-class test 2(failed) -->
+  <test name="Test-class test 3(failed)" parallel="tests">
+    <parameter name="test-name3" value="test-method One"/>
+    <classes>
+      <class name="KeywordDrivenFramework.DriverScript">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- KeywordDrivenFramework.DriverScript -->
+    </classes>
+  </test> <!-- Test-class test 3(failed) -->
+</suite> <!-- Failed suite [Test-class Suite] -->

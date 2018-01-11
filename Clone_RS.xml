@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<ConceptOneReply Process_Message="Request successfully processed." Process_Status="PRC" xmlns:epicsol="http://www.epic-premier.com/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="" Reply_Code="1" Process_Date="2017-05-23T03:23:08-00:00" SDK_Version="11.0.10.0">
+    <QuoteProcess Clone_From_ID="140240118" Book_Loc_ID="2100" Book_Entity_ID="1100" Event="Create" Session_ID="1222514118" Keep_Task_Open="N" Process_Status="PRC" Process_Message="Transaction successfully processed." Task_ID="1222514118">
+        <Quote Process_Status="PRC" Process_Message="Transaction request XML file successfully created." Proc_ID="140268118">
+            <Proc_Status></Proc_Status>
+            <Annotation></Annotation>
+            <Created_By Entity_ID="993000" Date="2017-05-23T03:23:06-00:00">
+                <Entity_Name>XML Source Entity</Entity_Name>
+            </Created_By>
+            <Est_Full_Term_Prem>1432.00</Est_Full_Term_Prem>
+            <Lost_To_Prem>0</Lost_To_Prem>
+            <Contract Process_Status="" Process_Message="" Contract_ID="96872118" Contract_GUID="" App_Set_ID="96848118" Contract_Set_ID="96872118" Image_Type="P">
+                <Contract_Num>1860532</Contract_Num>
+                <Eff_Date>2017-06-01T00:00:00-00:00</Eff_Date>
+                <Exp_Date>2018-06-01T00:00:00-00:00</Exp_Date>
+                <Term>12</Term>
+                <Incept_Date>2017-05-23T01:34:41-00:00</Incept_Date>
+                <Line_Code Desc="Home Owners (Import)" Multi_Line_Ind="N">Home</Line_Code>
+                <Program Desc="Homeowners">814</Program>
+                <Contract_State>VA</Contract_State>
+                <Market_Type>U</Market_Type>
+                <Book Entity_ID="1100" SSN_or_FEIN="520801316" Entity_Quick_Search=""></Book>
+                <Book_Loc Entity_ID="2100" SSN_or_FEIN="" Entity_Quick_Search=""></Book_Loc>
+                <Placement_Book_Loc Entity_ID="2100" SSN_or_FEIN="" Entity_Quick_Search=""></Placement_Book_Loc>
+                <Consumer Process_Status="" Process_Message="" Edit_Status="N" Entity_ID="41730118" SSN_or_FEIN="" Entity_Quick_Search="">
+                    <Entity_Type>O</Entity_Type>
+                    <Entity_Name>C1 test cuncrt</Entity_Name>
+                    <Correspond_Method>M</Correspond_Method>
+                    <Commercial_Ind>N</Commercial_Ind>
+                    <Prospect_Ind>N</Prospect_Ind>
+                    <Broker_Owned_Ind>Y</Broker_Owned_Ind>
+                    <Excl_From_Mktg_Ind>Y</Excl_From_Mktg_Ind>
+                    <Preferred_Ind>N</Preferred_Ind>
+                    <Late_Notice_Ind>N</Late_Notice_Ind>
+                    <Book_Cat_A>30</Book_Cat_A>
+                    <Book_Cat_B>632</Book_Cat_B>
+                    <Book_Cat_C>n/a</Book_Cat_C>
+                    <Book_Cat_D>n/a</Book_Cat_D>
+                    <Book_Cat_E>n/a</Book_Cat_E>
+                    <Addresses>
+                        <Address Process_Status="" Process_Message="" Edit_Status="N" Address_ID="38145118">
+                            <Address_Type>ML</Address_Type>
+                            <Address_Line_1>177 Colony Road</Address_Line_1>
+                            <City>NEWPORT NEWS</City>
+                            <State>VA</State>
+                            <Zip>23602</Zip>
+                            <County>NEWPORT NEWS CITY</County>
+                            <Country>Uni</Country>
+                            <Dflt_Address_Ind>Y</Dflt_Address_Ind>
+                        </Address>
+                    </Addresses>
+                    <Phones></Phones>
+                </Consumer>
+                <Broker Entity_ID="10911888">
+                    <Entity_Name>Garner Insurance Agency</Entity_Name>
+                </Broker>
+                <Supplier Entity_ID="16630888">
+                    <Entity_Name>Markel Insurance Company</Entity_Name>
+                </Supplier>
+                <Contract_Set_Status Desc="Open Option">OpenOption</Contract_Set_Status>
+                <Revision_Status Desc="In Process">InProcess</Revision_Status>
+                <Renewal_Status Desc="N/A">N/A</Renewal_Status>
+                <Submission_Status Desc="Quoted to Client">QuoteSubmit</Submission_Status>
+                <Option_Status Desc="Prepare Quote">QuoteCreate</Option_Status>
+                <Option_Desc>Option 2</Option_Desc>
+                <Revision_Eff_Date>2017-06-01T00:00:00-00:00</Revision_Eff_Date>
+                <Revision_Exp_Date>2018-06-01T00:00:00-00:00</Revision_Exp_Date>
+                <Submission_Type>Application</Submission_Type>
+                <Submission_Received_Date>2017-05-23T01:34:42-00:00</Submission_Received_Date>
+                <Bill_To_Role_Type>BK</Bill_To_Role_Type>
+                <Bill_To_Entity Entity_ID="10911888" SSN_or_FEIN="" Entity_Quick_Search=""></Bill_To_Entity>
+                <Receivable_Role>BK</Receivable_Role>
+                <Tax_Filed_By_Role>BO</Tax_Filed_By_Role>
+                <Supplier_Bill_Ind>N</Supplier_Bill_Ind>
+                <Audit_Ind>N</Audit_Ind>
+                <Is_Subsidiary_Ind>N</Is_Subsidiary_Ind>
+                <Has_Subsidiaries_Ind>N</Has_Subsidiaries_Ind>
+                <Countersign_Ind>N</Countersign_Ind>
+                <Countersign_Entity Entity_ID="-1000" SSN_or_FEIN="" Entity_Quick_Search=""></Countersign_Entity>
+                <Countersign_Fee_Ind>N</Countersign_Fee_Ind>
+                <Settlement_Type>OC</Settlement_Type>
+                <Min_Earned_Pct>0</Min_Earned_Pct>
+                <Min_Earned_Amount>0</Min_Earned_Amount>
+                <Reporting_Ind>N</Reporting_Ind>
+                <Inst_Bill_Ind>N</Inst_Bill_Ind>
+                <Book_Cat_A>30</Book_Cat_A>
+                <Book_Cat_B>632</Book_Cat_B>
+                <Book_Cat_C>n/a</Book_Cat_C>
+                <Book_Cat_D>n/a</Book_Cat_D>
+                <Book_Cat_E>n/a</Book_Cat_E>
+                <Out_Of_Seq_Ind>N</Out_Of_Seq_Ind>
+                <Written_Prem>1432.00</Written_Prem>
+                <Full_Term_Prem>1432.00</Full_Term_Prem>
+                <Est_Full_Term_Prem>0</Est_Full_Term_Prem>
+                <Net_Change_Prem>1432.00</Net_Change_Prem>
+                <Written_Fee>130.00</Written_Fee>
+                <Written_Tax>35.54</Written_Tax>
+                <Full_Term_Tax>35.54</Full_Term_Tax>
+                <Net_Change_Tax>35.54</Net_Change_Tax>
+                <Full_Term_Fee>130.00</Full_Term_Fee>
+                <Net_Change_Fee>130.00</Net_Change_Fee>
+                <New_To_Supplier_Ind>Y</New_To_Supplier_Ind>
+                <Finco_Create_Entries_Method>R</Finco_Create_Entries_Method>
+                <Prevent_System_AutoCalc_Tax_Ind>N</Prevent_System_AutoCalc_Tax_Ind>
+                <Prevent_System_AutoCalc_Fee_Ind>N</Prevent_System_AutoCalc_Fee_Ind>
+                <Contract_Line Process_Status="" Process_Message="" Line_ID="133049118" Line_GUID="" Edit_Status="N">
+                    <Line_Code>Home</Line_Code>
+                    <Program>814</Program>
+                    <Eff_Date>2017-06-01T00:00:00-00:00</Eff_Date>
+                    <Contract_Party>
+                        <Contract_Supplier Process_Status="" Process_Message="" Party_ID="1036211118" Party_GUID="" Edit_Status="N">
+                            <Source_Supplier Entity_ID="16630888" SSN_or_FEIN="" Entity_Quick_Search=""></Source_Supplier>
+                            <Risk_Supplier Entity_ID="16111888" SSN_or_FEIN="" Entity_Quick_Search=""></Risk_Supplier>
+                            <Principal_Ind>Y</Principal_Ind>
+                            <Agreement Agmt_ID="17197888" Agmt_Term_ID="17199888" Agmt_Num="1126"></Agreement>
+                            <Participation_Pct>100.0000</Participation_Pct>
+                            <Program>814</Program>
+                            <State>VA</State>
+                            <New_Comm_Rate>25.0000</New_Comm_Rate>
+                            <Renewal_Comm_Rate>25.0000</Renewal_Comm_Rate>
+                            <Rewrite_Comm_Rate>25.0000</Rewrite_Comm_Rate>
+                            <Endorse_Comm_Rate>25.0000</Endorse_Comm_Rate>
+                            <Renewal_Endorse_Comm_Rate>25.0000</Renewal_Endorse_Comm_Rate>
+                            <Flat_Amount_Ind>N</Flat_Amount_Ind>
+                        </Contract_Supplier>
+                        <Contract_Broker Process_Status="" Process_Message="" Party_ID="1036209118" Party_GUID="" Edit_Status="N">
+                            <Broker Entity_ID="10911888" SSN_or_FEIN="631156147" Entity_Quick_Search="10198"></Broker>
+                            <Principal_Ind>Y</Principal_Ind>
+                            <Agreement Agmt_ID="4120888" Agmt_Term_ID="5186888" Agmt_Num="10198"></Agreement>
+                            <Participation_Pct>100.0000</Participation_Pct>
+                            <Program>814</Program>
+                            <State>VA</State>
+                            <Net_Broker_Ind>Y</Net_Broker_Ind>
+                            <New_Comm_Rate>0</New_Comm_Rate>
+                            <Renewal_Comm_Rate>0</Renewal_Comm_Rate>
+                            <Rewrite_Comm_Rate>0</Rewrite_Comm_Rate>
+                            <Endorse_Comm_Rate>0</Endorse_Comm_Rate>
+                            <Renewal_Endorse_Comm_Rate>0</Renewal_Endorse_Comm_Rate>
+                            <Flat_Amount_Ind>N</Flat_Amount_Ind>
+                        </Contract_Broker>
+                        <Contract_Producer Process_Status="" Process_Message="" Party_ID="1036210118" Party_GUID="" Edit_Status="N">
+                            <Producer Entity_ID="629100" SSN_or_FEIN="" Entity_Quick_Search=""></Producer>
+                            <Principal_Ind>Y</Principal_Ind>
+                            <Participation_Pct>100.0000</Participation_Pct>
+                            <Program>814</Program>
+                            <State>VA</State>
+                            <New_Comm_Rate>0</New_Comm_Rate>
+                            <Renewal_Comm_Rate>0</Renewal_Comm_Rate>
+                            <Rewrite_Comm_Rate>0</Rewrite_Comm_Rate>
+                            <Endorse_Comm_Rate>0</Endorse_Comm_Rate>
+                            <Renewal_Endorse_Comm_Rate>0</Renewal_Endorse_Comm_Rate>
+                            <Flat_Amount_Ind>N</Flat_Amount_Ind>
+                            <Book_Cat_A>30</Book_Cat_A>
+                            <Book_Cat_B>632</Book_Cat_B>
+                            <Book_Cat_C>n/a</Book_Cat_C>
+                            <Book_Cat_D>n/a</Book_Cat_D>
+                            <Book_Cat_E>n/a</Book_Cat_E>
+                        </Contract_Producer>
+                    </Contract_Party>
+                    <Line_Wide_Product Process_Status="" Process_Message="" Article_ID="848897118" Edit_Status="N" Article_GUID="">
+                        <Loc_Num>1</Loc_Num>
+                        <Article_Status>A</Article_Status>
+                        <Product Process_Status="" Process_Message="" Product_ID="450080118" Product_GUID="" Cost_ID="452473118" Cost_GUID="" Edit_Status="N">
+                            <Product_Code>HOME</Product_Code>
+                            <Net_Change_Method>M</Net_Change_Method>
+                            <Full_Term_Amount>1432.00</Full_Term_Amount>
+                            <Net_Change_Amount>1432.00</Net_Change_Amount>
+                            <Written_Amount>1432.00</Written_Amount>
+                            <Statutory_Limit_Ind>?</Statutory_Limit_Ind>
+                            <Rejected_Ind>?</Rejected_Ind>
+                            <Fully_Earned_Ind>N</Fully_Earned_Ind>
+                            <Rate>0</Rate>
+                        </Product>
+                        <Product Process_Status="" Process_Message="" Product_ID="450081118" Product_GUID="" Cost_ID="452474118" Cost_GUID="" Edit_Status="N">
+                            <Product_Code>INSPFEE</Product_Code>
+                            <Net_Change_Method>M</Net_Change_Method>
+                            <Full_Term_Amount>45.00</Full_Term_Amount>
+                            <Net_Change_Amount>45.00</Net_Change_Amount>
+                            <Written_Amount>45.00</Written_Amount>
+                            <Statutory_Limit_Ind>?</Statutory_Limit_Ind>
+                            <Rejected_Ind>?</Rejected_Ind>
+                            <Fully_Earned_Ind>N</Fully_Earned_Ind>
+                            <Rate>0</Rate>
+                        </Product>
+                        <Product Process_Status="" Process_Message="" Product_ID="450082118" Product_GUID="" Cost_ID="452475118" Cost_GUID="" Edit_Status="N">
+                            <Product_Code>POLFEE</Product_Code>
+                            <Net_Change_Method>M</Net_Change_Method>
+                            <Full_Term_Amount>85.00</Full_Term_Amount>
+                            <Net_Change_Amount>85.00</Net_Change_Amount>
+                            <Written_Amount>85.00</Written_Amount>
+                            <Statutory_Limit_Ind>?</Statutory_Limit_Ind>
+                            <Rejected_Ind>?</Rejected_Ind>
+                            <Fully_Earned_Ind>N</Fully_Earned_Ind>
+                            <Rate>0</Rate>
+                        </Product>
+                        <Product Process_Status="" Process_Message="" Product_ID="450083118" Product_GUID="" Cost_ID="452476118" Cost_GUID="" Edit_Status="N">
+                            <Product_Code>STAMPFEE</Product_Code>
+                            <Net_Change_Method>M</Net_Change_Method>
+                            <Full_Term_Amount>0.39</Full_Term_Amount>
+                            <Net_Change_Amount>0.39</Net_Change_Amount>
+                            <Written_Amount>0.39</Written_Amount>
+                            <Statutory_Limit_Ind>?</Statutory_Limit_Ind>
+                            <Rejected_Ind>?</Rejected_Ind>
+                            <Fully_Earned_Ind>N</Fully_Earned_Ind>
+                            <Rate>0</Rate>
+                        </Product>
+                        <Product Process_Status="" Process_Message="" Product_ID="450084118" Product_GUID="" Cost_ID="452477118" Cost_GUID="" Edit_Status="N">
+                            <Product_Code>SURPLSTAX</Product_Code>
+                            <Net_Change_Method>M</Net_Change_Method>
+                            <Full_Term_Amount>35.15</Full_Term_Amount>
+                            <Net_Change_Amount>35.15</Net_Change_Amount>
+                            <Written_Amount>35.15</Written_Amount>
+                            <Statutory_Limit_Ind>?</Statutory_Limit_Ind>
+                            <Rejected_Ind>?</Rejected_Ind>
+                            <Fully_Earned_Ind>N</Fully_Earned_Ind>
+                            <Rate>0</Rate>
+                        </Product>
+                    </Line_Wide_Product>
+                </Contract_Line>
+                <Contract_Location Process_Status="" Process_Message="" Loc_ID="114938118" Loc_GUID="" Edit_Status="N">
+                    <Loc_Num>1</Loc_Num>
+                    <Address_Line_1>177 Colony Road</Address_Line_1>
+                    <City>NEWPORT NEWS</City>
+                    <State>VA</State>
+                    <Zip>23602</Zip>
+                    <County>NEWPORT NEWS CITY</County>
+                    <Country>USA</Country>
+                    <In_City_Limits_Ind>N</In_City_Limits_Ind>
+                    <Status>N</Status>
+                </Contract_Location>
+                <Team_Members>
+                    <Team_Member Process_Status="" Process_Message="" Party_ID="1036208118" Party_GUID="" Edit_Status="N">
+                        <Team_Member_Role>PROD</Team_Member_Role>
+                        <Employee Entity_ID="629100">
+                            <Entity_Name>Allrisks Quick Home</Entity_Name>
+                        </Employee>
+                        <Principal_Ind>Y</Principal_Ind>
+                        <Primary_Ind>N</Primary_Ind>
+                    </Team_Member>
+                </Team_Members>
+            </Contract>
+        </Quote>
+    </QuoteProcess>
+</ConceptOneReply>

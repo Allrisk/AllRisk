@@ -1,0 +1,20 @@
+<suite name="Test-class Suite" parallel="tests" thread-count="3">
+    <test name="Test-class test 1">
+        <parameter name="test-name" value="test-method One" />
+        <classes>
+            <class name="KeywordDrivenFramework.DriverScript" />
+        </classes>
+    </test>
+    <test name="Test-class test 2">
+        <parameter name="test-name1" value="test-method One" />
+        <classes>
+            <class name="KeywordDrivenFramework.DriverScript" />
+        </classes>
+    </test>
+      <test name="Test-class test 3">
+        <parameter name="test-name3" value="test-method One" />
+        <classes>
+            <class name="KeywordDrivenFramework.DriverScript" />
+        </classes>
+    </test>
+</suite>
